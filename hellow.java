@@ -9,3 +9,4 @@ public void method2(){
 	sout("这是一个方法2");
 	
 }
+
